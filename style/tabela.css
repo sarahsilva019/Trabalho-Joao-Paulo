@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+table {
+    width: 50%;
+    margin: 100px auto;
+}
+
+caption {
+    background-color: #008B8B;
+    height: 40px;
+    font-size: medium;
+}
+
+.coluna {
+    background-color: #5F9EA0;
+    width: 50%;
+}
+
+.coluna td{
+    width: 50%;
+}

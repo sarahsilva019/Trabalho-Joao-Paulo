@@ -1,0 +1,30 @@
+body {
+    background-color: #FFFFFF;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+}
+
+.informacao p{
+    text-align: center;
+}
+
+.subtitulo h3 {
+    text-align: center;
+}
+
+fieldset {
+    width: 50%;
+    margin: 0px auto; 
+}
+
+.informacao_curso_microsoft img {
+    width: 400px;
+}
+
+.informacao_cursi_google img {
+    width: 200px;
+}
+
